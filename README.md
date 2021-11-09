@@ -9,7 +9,7 @@ Application for creating books and displaying their list using microservices.
 <img src = "https://github.com/lukaszj9800/Microservice/blob/master/png/book-list.png" />
 
 # Add new book - form
-<img src = "https://github.com/lukaszj9800/Microservice/blob/master/png/add-book.png" />
+<img src = "https://github.com/lukaszj9800/Microservice/blob/master/png/add-book-form.png" />
 
 # Postman - add new book endpoint
 <img src = "https://github.com/lukaszj9800/Microservice/blob/master/png/postman-addNewBook.png" />
