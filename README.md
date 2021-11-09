@@ -6,19 +6,19 @@
 Application for creating books and displaying their list using microservices.
 
 # List books
-<img src = "https://github.com/lukaszj9800/Microservice/blob/main/png/book-list.png" />
+<img src = "https://github.com/lukaszj9800/Microservice/blob/master/png/book-list.png" />
 
 # Add new book - form
-<img src = "https://github.com/lukaszj9800/Microservice/blob/main/png/add-book.png" />
+<img src = "https://github.com/lukaszj9800/Microservice/blob/master/png/add-book.png" />
 
 # Postman - add new book endpoint
-<img src = "https://github.com/lukaszj9800/Microservice/blob/main/png/postman-addNewBook.png" />
+<img src = "https://github.com/lukaszj9800/Microservice/blob/master/png/postman-addNewBook.png" />
 
 # Postman - list books endpoint
-<img src = "https://github.com/lukaszj9800/Microservice/blob/main/png/postman-getAllBooks.png" />
+<img src = "https://github.com/lukaszj9800/Microservice/blob/master/png/postman-getAllBooks.png" />
 
 # Spring Eureka
-<img src = "https://github.com/lukaszj9800/Microservice/blob/main/png/spring-eureka.png" />
+<img src = "https://github.com/lukaszj9800/Microservice/blob/master/png/spring-eureka.png" />
 	
 ## Technologies
 Project is created with:
